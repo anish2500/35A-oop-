@@ -1,4 +1,4 @@
-public class Task6 {
+public class W1Task6 {
     public static void main(String[] args) {
         /*6. WAP that prints the following output:
 

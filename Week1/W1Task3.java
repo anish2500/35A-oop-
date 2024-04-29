@@ -1,4 +1,4 @@
-public class Task3 {
+public class W1Task3 {
     public static void main(String[] args) {
         /*3. Write a program that prints the following output:
 
